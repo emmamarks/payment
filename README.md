@@ -1,5 +1,5 @@
 # payment
-# User A is added to the app
+User A is added to the app
 User A deposits 10 dollars
 User B is added to the app
 User B deposits 20 dollars
